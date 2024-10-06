@@ -10,3 +10,8 @@ Customer demographics: All but one age group by sedans, the only exception is pe
 Income and Purchases: Households with higher Incomes prefer more exensive cars i.e SUVs. Lower earners prefer Hatchbacks.
 
 Loan and Financing: Customers with personal and house loans purchase more Hatchbacks, followed by Sedans.
+                    Customers with personal loan and a lower average household salary (~ 78,000) tend to buy lower-priced cars (~34,500 average).
+
+Car Price Trends: SUVs > Sedans >, in decreasing order of pricing. Higher income households purchase expensive cars with average car price of about 59,300. Lower income households with average salary of 72,600 purchase cars with average price of 25,500.
+
+
