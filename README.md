@@ -1,3 +1,26 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Austo_Automobile
 
 'High' level questions that should be answered:
@@ -18,26 +41,4 @@ Marital Status and Family: Single customers are more likely to buy Hatchbacks. H
                           Customers with working partners are more likely to buy Hatchbacks.
                           Our best customers are those with 3 or 2 dependents.
 
-
-TopCarType = 
-VAR TopCarTypeValue = 
-    MAXX(
-        SUMMARIZE(
-            Fact_Table, -- Replace with your table name
-            Make[Make], -- Car type column
-            "TotalBuyers", COUNT(Make[Make]) -- Count of buyers per car type
-        ),
-        [TotalBuyers]
-    )
-RETURN
-    MAXX(
-        FILTER(
-            SUMMARIZE(
-                Fact_Table,
-                Make[Make],
-                "TotalBuyers", COUNT(Make[Make])
-            ),
-            [TotalBuyers] = TopCarTypeValue
-        ),
-        Make[Make]
-    )
+                          
