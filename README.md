@@ -42,6 +42,29 @@ The dataset consists of various demographic, financial, and car-related informat
 - Price: The price of the purchased car.
 - Make: Type of car (Hatchback, Sedan, SUV).
 
+## Tech Stack
+The project utilizes the following tools and technologies:
+
+- Power BI: For data visualization, dashboard creation, and insights generation.
+- DAX (Data Analysis Expressions): To perform complex calculations and measures within Power BI.
+- Power Query: For data cleaning, transformation, and manipulation.
+
+## Project Scope
+The scope of the project includes:
+
+- Data Cleaning and Transformation using Power Query
+- Data exploration and analysis to understand the key factors influencing car purchase behaviour.
+- Creation of interactive Power BI dashboards that display customer profiles based on car type, income level, and other demographic factors.
+- Providing insights and recommendations to Austo’s management team to aid in their market expansion strategy.
+
+## Analysis and Insights
+This report is made of of two pages:
+- Overview Page
+- Analysis Page
+
+The full report can be found [here]()
+
+
 
 
 
