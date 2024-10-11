@@ -1,4 +1,46 @@
+# Market Segmentation & Customer Profiling for US Automobile Market Expansion
 
+## Table of Contents
+
+- [Business Problem](#business-problem)
+- [Rationale for the Project](#rationale-for-the-project)
+- [Aim of the Project](#aim-of-the-project)
+- [Data Description](#data-description)
+- [Tech Stack](#tech-stack)
+- [Project Scope](#project-scope)
+- [Analysis and Insights](#analysis-and-insights)
+- [Recommendations](#recommendations)
+
+## Business Problem
+Austo, a UK-based automobile company, aims to expand its presence into the US market after successfully establishing its business in Europe. The company seeks to understand the preferences and purchasing behavior of US car buyers in order to adapt its strategy to this new market. To do so, Austo has contracted a consulting firm to conduct market research and collect buyer data, which will be analyzed to identify trends and customer profiles for different types of cars.
+
+## Rationale for the Project
+The US automobile market presents a significant growth opportunity for Austo. However, to succeed in this new market, it's crucial to understand local customer preferences and purchasing behavior. This project will provide valuable insights to guide Austo's business strategy and production planning, ensuring they meet specific demand levels and identify new purchase opportunities.
+
+## Aim of the Project
+The project aims to:
+
+- Analyze the car-buying preferences of US customers based on various demographic and financial factors.
+- Create customer profiles for different types of cars (Hatchback, Sedan, SUV) to identify new purchase opportunities.
+- Provide actionable insights and recommendations to help Austo adjust its business strategy and production plans to better meet US market demand.
+
+## Data Description
+The dataset consists of various demographic, financial, and car-related information of US car buyers. The data points include:
+
+- Age: Age of the customer.
+- Gender: Gender of the customer.
+- Profession: Employment status (Salaried/Business).
+- Marital_status: Whether the customer is married or single.
+- Education: The highest level of education attained.
+- No_of_dependents: Number of dependents the customer has.
+- Personal_loan: Whether the customer has a personal loan.
+- House_loan: Whether the customer has a house loan.
+- Partner_working: Indicates if the customer's partner is employed.
+- Salary: Annual income of the customer.
+- Partner_salary: Annual income of the customer's partner.
+- Total_salary: Combined household income.
+- Price: The price of the purchased car.
+- Make: Type of car (Hatchback, Sedan, SUV).
 
 
 
