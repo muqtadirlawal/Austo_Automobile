@@ -67,11 +67,11 @@ The full report can be found [here]()
 ### Overview
 ![](Overview.png)
 This page provides a high level summary of actionable insights that management can act on at a glance.
-- First, we see that Hatchbacks are the most popular Car Make, accounting for almsot 56% market share of the 1,581 cars sold.
+- First, we see that Hatchbacks are the most popular Car Make, accounting for almost 56% market share of the 1,581 cars sold.
 - Also, the average household income of the customers who bought these cars is $79,450.
 - On the average, the customers are young adults aged 32 years.
-- We see that the 22-29 age group makes up the largest share of Hatchback buyers, showing the relevance of this demographic in driving Hatchback and overall sales. The 30-39 age group have a strong preference for Sedans.
-- For families with 2 and 3 dependents, we observe that the overwhelming favourite is Hatchbacks, followed by Sedans. This suggests that young families that are just starting out prefer 'smaller' cars at this stage of their lives. For customers with 1 dependent, their clear favourite is Sedans.
+- We see that the 22-29 age group make up the largest share of Hatchback buyers, showing the relevance of this demographic in driving Hatchback and overall sales. The 30-39 age group have a strong preference for Sedans.
+- For families with 2 and 3 dependents, we observe that the overwhelming favourite is Hatchbacks, followed by Sedans. This suggests that young families that are just starting out prefer 'smaller' cars. For customers with 1 dependent, their clear favourite is Sedans while those with 4 dependents lean towards SUVs.
 - Although there is no noticable difference in the preference of Hatchbacks between customers who are business owners and professionals who earn salaries, we see that customers who earn salaries buy more Sedans and SUVs than those who are business owners.
 
 ### Analysis
