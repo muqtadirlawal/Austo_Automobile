@@ -74,11 +74,6 @@ This page provides a high level summary of actionable insights that management c
 - For families with 2 and 3 dependents, we observe that the overwhelming favourite is Hatchbacks, followed by Sedans. This suggests that young families that are just starting out prefer 'smaller' cars at this stage of their lives. For customers with 1 dependent, their clear favourite is Sedans.
 - Although there is no noticable difference in the preference of Hatchbacks between customers who are business owners and professionals who earn salaries, we see that customers who earn salaries buy more Sedans and SUVs than those who are business owners.
 
-
-
-
-Salaried professionals lean towards purchasing SUVs and Sedans, while business owners are slightly more inclined to purchase Hatchbacks. This indicates that SUVs might be more attractive to salaried professionals, who typically have a higher household income (as confirmed by the Average Household Income card).
-
 ### Analysis
 ![](Analysis.png)
 
