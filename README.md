@@ -62,7 +62,7 @@ This report is made of of two pages:
 - Overview Page
 - Analysis Page
 
-The full report can be found [here]()
+The full report can be found [here](https://app.powerbi.com/view?r=eyJrIjoiODA1YjViNDItNDAxOC00YTllLTlhNzQtMzY2ODIyYzI5MmZkIiwidCI6IjBjODQwNDRjLTRmZDUtNGU4My1iYjczLWNiYjhjNjI3OGIyZiJ9)
 
 ### Overview
 ![](Overview.png)
