@@ -72,7 +72,7 @@ This page provides a high level summary of actionable insights that management c
 - On the average, the customers are young adults aged 32 years.
 - We see that the 22-29 age group make up the largest share of Hatchback buyers, showing the relevance of this demographic in driving Hatchback and overall sales. The 30-39 age group have a strong preference for Sedans.
 - For families with 2 and 3 dependents, we observe that the overwhelming favourite is Hatchbacks, followed by Sedans. This suggests that young families that are just starting out prefer 'smaller' cars. For customers with 1 dependent, their clear favourite is Sedans while those with 4 dependents lean towards SUVs.
-- Although there is no noticable difference in the preference of Hatchbacks between customers who are business owners and professionals who earn salaries, we see that customers who earn salaries buy more Sedans and SUVs than those who are business owners.
+- Although there is no noticable difference in the preference for Hatchbacks between customers who are business owners and professionals who earn salaries, we see that customers who earn salaries buy more Sedans and SUVs than those who are business owners.
 
 ### Analysis
 ![](Analysis.png)
