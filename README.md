@@ -12,10 +12,10 @@
 - [Recommendations](#recommendations)
 
 ## Business Problem
-Austo, a UK-based automobile company, aims to expand its presence into the US market after successfully establishing its business in Europe. The company seeks to understand the preferences and purchasing behavior of US car buyers in order to adapt its strategy to this new market. To do so, Austo has contracted a consulting firm to conduct market research and collect buyer data, which will be analyzed to identify trends and customer profiles for different types of cars.
+Austo, a UK-based automobile company, aims to expand its presence into the US market after successfully establishing its business in Europe. The company seeks to understand the preferences and purchasing behaviour of US car buyers in order to adapt its strategy to this new market. To do so, Austo has contracted a consulting firm to conduct market research and collect buyer data, which will be analyzed to identify trends and customer profiles for different types of cars.
 
 ## Rationale for the Project
-The US automobile market presents a significant growth opportunity for Austo. However, to succeed in this new market, it's crucial to understand local customer preferences and purchasing behavior. This project will provide valuable insights to guide Austo's business strategy and production planning, ensuring they meet specific demand levels and identify new purchase opportunities.
+The US automobile market presents a significant growth opportunity for Austo. However, to succeed in this new market, it's crucial to understand local customer preferences and purchasing behaviour. This project will provide valuable insights to guide Austo's business strategy and production planning, ensuring they meet specific demand levels and identify new purchase opportunities.
 
 ## Aim of the Project
 The project aims to:
@@ -77,7 +77,7 @@ This page provides a high level summary of actionable insights that management c
 ### Analysis
 ![](Analysis.png)
 On this page, we'll take a closer look at demographic insights, loan impact, and market opportunities.
-- We see that younger buyers (22-29) and those earning between 50k and 100k have a preference for Hatchbacks, with Seniors (50-60) and those earning above 150k leaning towards SUVs. Hence, we can target young buyers with affordable, practical cars and older and high earners with luxury models like SUVs.
+- We see that younger buyers (22-29) and those earning between 50k and 100k have a preference for Hatchbacks, with Seniors (50-60) and those earning above 150k leaning towards SUVs. Hence, we can target young buyers with affordable, practical cars and older, higher earners with luxury models like SUVs.
 - Marketing efforts and strategies should be concentrated on Married customers, as they are the overwhelming majority for all Makes of cars.
 - Male buyers prefer Hatchbacks, followed by Sedans, with SUVs being the least preferred. However, we see that Female customers tend to buy more Sedans, followed by SUVs. This insight highlights gender-specific marketing opportunities for Austo to tailor messaging that resonates more with each group.
 - With the exception of Hatchbacks with almost equal patronage from buyers who earn a salary and customers who earn through business, customers with salaries generally buy more cars than business customers for Sedans and SUVs.
