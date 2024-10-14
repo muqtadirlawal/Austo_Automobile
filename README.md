@@ -76,6 +76,10 @@ This page provides a high level summary of actionable insights that management c
 
 ### Analysis
 ![](Analysis.png)
+On this page, we'll take a closer look at demographic insights, loan impact, and market opportunities.
+- We see that younger buyers (22-29) and those earning between 50k and 100k have a preference for Hatchbacks, with Seniors (50-60) and those earning above 150k leaning towards SUVs. Hence, we can target young buyers with affordable, practical cars and older and high earners with luxury models like SUVs.
+- Marketing efforts and strategies should be concentrated on Married customers, as they are the overwhelming majority for all Makes of cars.
+- Male buyers prefer Hatchbacks, followed by Sedans, with SUVs being the least preferred. However, we see that Female bcustomers tend to buy more Sedans, followed by SUVs. This insight highlights gender-specific marketing opportunities for Austo to tailor messaging that resonates more with each group.
 
 
 ### Recommendations
