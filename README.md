@@ -90,11 +90,11 @@ Target Young Adults for Hatchbacks:
 Promote Sedans to Small Families and Female Buyers:
 - Families with 1 dependent prefer Sedans, and female customers favour Sedans over other car types. Highlight Sedans as a family-friendly and stylish option in marketing campaigns aimed at smaller families and female buyers.
 
-Tailor SUV Marketing to Older and High-Income Customers
+Tailor SUV Marketing to Older and High-Income Customers:
 - Customers aged 50-60 and those earning above $150k show a strong preference for SUVs. Hence, promote SUVs as premium, luxurious models targeting older and higher-income buyers.
 
-Expand Financing Options for Hatchbacks and Sedans
+Expand Financing Options for Hatchbacks and Sedans:
 - Many Hatchback and Sedan buyers rely on personal loans for their purchases, suggesting financing plays a role in these segments. Offer more attractive financing deals for Hatchbacks and Sedans to attract lower-income and loan-dependent buyers.
 
-Prioritize Salaried and Married Buyers in Campaigns
+Prioritize Salaried and Married Buyers in Campaigns:
 - Salaried buyers purchase more Sedans and SUVs, and married customers dominate car purchases across all makes. Develop targeted campaigns for salaried professionals and married couples, emphasizing reliability and family appeal.
