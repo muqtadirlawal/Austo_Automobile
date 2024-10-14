@@ -84,50 +84,17 @@ On this page, we'll take a closer look at demographic insights, loan impact, and
 - We see that majority of buyers who opted for Hatchbacks and Sedans had personal loan, even though the numbers are not that significant. Austo can look into this and offer more competitive financing options for Hatchbacks and Sedans to attract lower-income buyers.
 
 ### Recommendations
+Target Young Adults for Hatchbacks:
+- The 22-29 age group is the largest buyer of Hatchbacks, and young families with 2-3 dependents also prefer this car type. Hence, focus marketing efforts on young adults and small families by promoting Hatchbacks as affordable and practical options.
 
+Promote Sedans to Small Families and Female Buyers:
+- Families with 1 dependent prefer Sedans, and female customers favour Sedans over other car types. Highlight Sedans as a family-friendly and stylish option in marketing campaigns aimed at smaller families and female buyers.
 
+Tailor SUV Marketing to Older and High-Income Customers
+- Customers aged 50-60 and those earning above $150k show a strong preference for SUVs. Hence, promote SUVs as premium, luxurious models targeting older and higher-income buyers.
 
+Expand Financing Options for Hatchbacks and Sedans
+- Many Hatchback and Sedan buyers rely on personal loans for their purchases, suggesting financing plays a role in these segments. Offer more attractive financing deals for Hatchbacks and Sedans to attract lower-income and loan-dependent buyers.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Austo_Automobile
-
-'High' level questions that should be answered:
-Customer Preference- What types of cars do customers prefer/buy the most? What factors influence the choice of cars by customers? What are the profiles of buyers/customers for different types of cars?
-
-Customer demographics: All but one age group by sedans, the only exception is people aged 50-60 who prefer to buy SUVs. Customers aged 30-39 purchase all 3 car makes (only them do this).
-                      Salaried Customers buy more Cars than Business customers across the 3 car makes.
-                      Hatchbacks are the most popular cars for Male, while Females prefer Sedans.
-
-Income and Purchases: Households with higher Incomes prefer more exensive cars i.e SUVs. Lower earners prefer Hatchbacks.
-
-Loan and Financing: Customers with personal and house loans purchase more Hatchbacks, followed by Sedans.
-                    Customers with personal loan and a lower average household salary (~ 78,000) tend to buy lower-priced cars (~34,500 average).
-
-Car Price Trends: SUVs > Sedans >, in decreasing order of pricing. Higher income households purchase expensive cars with average car price of about 59,300. Lower income households with average salary of 72,600 purchase cars with average price of 25,500.
-
-Marital Status and Family: Single customers are more likely to buy Hatchbacks. Hatchbacks is the best selling and this is also true for Married customers.
-                          Customers with working partners are more likely to buy Hatchbacks.
-                          Our best customers are those with 3 or 2 dependents.
-
-                          
+Prioritize Salaried and Married Buyers in Campaigns
+- Salaried buyers purchase more Sedans and SUVs, and married customers dominate car purchases across all makes. Develop targeted campaigns for salaried professionals and married couples, emphasizing reliability and family appeal.
